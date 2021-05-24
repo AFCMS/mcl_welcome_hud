@@ -1,8 +1,8 @@
 # Define the welcome message shown in the HUD (default: WELCOME)
-mcl_welcome_hud_msg (Welcome HUD message) string
+mcl_welcome_hud.msg (Welcome HUD message) string
 
 # Define the color of the welcome HUD bar 
-mcl_welcome_hud_color (Welcome HUD color) enum white light_purple,blue,red,green,yellow,dark_purple,white
+mcl_welcome_hud.color (Welcome HUD color) enum white light_purple,blue,red,green,yellow,dark_purple,white
 
 # Define the timeout for the welcome HUD bar (default: 0, the welcome HUD will stay in place)
-mcl_welcome_hud_timeout (Welcome HUD timeout) int 0
+mcl_welcome_hud.timeout (Welcome HUD timeout) int 0
