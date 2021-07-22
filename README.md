@@ -13,4 +13,4 @@ You can change the default message and color by adding a setting to your minetes
 
 You can change these settings from the Settings tab.
 
-WARNING: This mod require the latest dev version of MineClone2 in order to work
+WARNING: you need the MineClone2 `mcl_bossbars` mod for this mod to work
