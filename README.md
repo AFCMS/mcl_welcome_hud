@@ -1,4 +1,8 @@
 # mcl_welcome_hud
+
+[![ContentDB](https://content.minetest.net/packages/AFCM/mcl_welcome_hud/shields/title/)](https://content.minetest.net/packages/AFCM/mcl_welcome_hud/)
+[![ContentDB](https://content.minetest.net/packages/AFCM/mcl_welcome_hud/shields/downloads/)](https://content.minetest.net/packages/AFCM/mcl_welcome_hud/)
+
 Add a customisable welcome bossbar in the HUD
 
 You can change the default message and color by adding a setting to your minetest.conf
